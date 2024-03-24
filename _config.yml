@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zixiong (Owen) Han Homepage"
+title                    : "Zixiong Han Homepage"
 title_separator          : "-"
 name                     : &name "Zixiong (Owen) Han"
-description              : &description "PhD Student at University of Ottawa"
+description              : &description "PhD Candidate at University of Ottawa"
 url                      : https://owenhan10.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "owenhan10.github.io"
