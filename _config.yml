@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Zixiong Han"
   avatar           : "profile_photo.png"
-  bio              : "PhD candidate at University of Ottawa"
+  bio              : "PhD Candidate at University of Ottawa"
   location         : "Ottawa, Canada"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=hfwMkKEAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
