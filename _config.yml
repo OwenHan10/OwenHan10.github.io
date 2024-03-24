@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zixiong Han Homepage"
+title                    : "Zixiong Han"
 title_separator          : "-"
 name                     : &name "Zixiong (Owen) Han"
 description              : &description "PhD Candidate at University of Ottawa"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zixiong (Owen) Han"
-  avatar           : "profile.png"
+  name             : "Zixiong Han"
+  avatar           : "profile_photo.png"
   bio              : "PhD candidate at University of Ottawa"
   location         : "Ottawa, Canada"
   employer         :
