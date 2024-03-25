@@ -8,16 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-I am a currently PhD Candidate in the School of Electrical Engineering and Computer Science at University of Ottawa, serving as a Research Assistant in the Health Device Research Group [HDRG](http://health-devices.site.uottawa.ca/) supervised by [Prof. Miodrag Bolic](https://www.site.uottawa.ca/~mbolic/). I received my Master of Applied Science degree from University of Ottawa in the same research group in 2021. Previously, I obtained my Bachelor of Engineering degree from Northeastern University (China) in 2021. I was a varsity athlete playing for the Northeastern University men's soccer team.
+I am a currently PhD Candidate in the School of Electrical Engineering and Computer Science at University of Ottawa, serving as a Research Assistant in the [Health Device Research Group (HDRG)](http://health-devices.site.uottawa.ca/) supervised by [Prof. Miodrag Bolic](https://www.site.uottawa.ca/~mbolic/). I received my Master of Applied Science degree from University of Ottawa in the same research group in 2021. Previously, I obtained my Bachelor of Engineering degree from Northeastern University (China) in 2021. I was a varsity athlete who played for the Northeastern University men's soccer team in 2017-2018.
 
 Research Interest
 ======
-
 My research interest is about wireless sensing and health care. 
 
+Selected Experience
+------
 In my undergraduate thesis, I developed an EMG-based gait cycle phase classification model. This involved collecting 4-channel EMG signals from muscles including the rectus femoris, hamstring, tibialis anterior tendon, and gastrocnemius to predict gait phases. The aim was to explore the control scheme of assisting lower-limb exoskeletons. This work received the Excellent Bachelor Thesis Award from the College of Information Science and Engineering at Northeastern University."
 
+Publishing EMBC paper
 
+Graduate thesis
+
+Frontier Paper
+
+IoT
+
+Lab2Market
+
+Hospital Project
 
 A data-driven personal website
 ======
