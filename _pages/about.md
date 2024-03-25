@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This webpage is under development, see you soon"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a currently PhD Candidate in the School of Electrical Engineering and Computer Science at University of Ottawa, serving as a Research Assistant in the Health Device Research Group [HDRG](http://health-devices.site.uottawa.ca/) supervised by [Prof. Miodrag Bolic](https://www.site.uottawa.ca/~mbolic/). I received my Master of Applied Science degree from University of Ottawa in the same research group in 2021. Previously, I obtained my Bachelor of Engineering degree from Northeastern University (China) in 2021. I was a varsity athlete playing for the Northeastern University men's soccer team.
+
+Research Interest
+======
+
+My research interest is about wireless sensing and health care. 
+
+In my undergraduate thesis, I developed an EMG-based gait cycle phase classification model. This involved collecting 4-channel EMG signals from muscles including the rectus femoris, hamstring, tibialis anterior tendon, and gastrocnemius to predict gait phases. The aim was to explore the control scheme of assisting lower-limb exoskeletons. This work received the Excellent Bachelor Thesis Award from the College of Information Science and Engineering at Northeastern University."
+
+
 
 A data-driven personal website
 ======
