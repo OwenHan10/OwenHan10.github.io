@@ -1,7 +1,7 @@
 ---
 title: "Respiratory patterns classification using UWB radar"
 collection: publications
-permalink: /publication/2021-Respiratory-patterns-classification-using-UWB-radar
+permalink: /publication/2021-Master-Thesis
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2021
 venue: 'Master Thesis'
@@ -10,6 +10,6 @@ citation: 'Han, Zixiong. Respiratory patterns classification using UWB radar. Di
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
-<!-- [Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2). -->
+Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
