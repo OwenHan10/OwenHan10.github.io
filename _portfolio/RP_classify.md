@@ -1,6 +1,7 @@
 ---
-title: "A contactless vital signs monitoring IoT system"
-excerpt: "Introduction of how our contactless vital signs monitoring IoT system works.<br/><img src='/images/500x300.png'>"
+title: "Real-Time Breathing Analysis System"
+excerpt: "Demonstration of how our breathing analysis system works<br/>
+<img src='/images/RP_cover.png'>"
 collection: portfolio
 ---
 
