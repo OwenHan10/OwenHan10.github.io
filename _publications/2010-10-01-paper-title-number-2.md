@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Respiratory patterns classification using UWB radar"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2021-Respiratory-patterns-classification-using-UWB-radar
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2021
+venue: 'Master Thesis'
+paperurl: 'https://ruor.uottawa.ca/items/cc1b9f82-4843-457d-96ad-a7804326e156'
+citation: 'Han, Zixiong. Respiratory patterns classification using UWB radar. Diss. Université d'Ottawa/University of Ottawa, 2021.'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+<!-- [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2). -->
