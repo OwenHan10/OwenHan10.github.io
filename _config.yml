@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Owen's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Zixiong Han"
 description              : &description "PhD Candidate at University of Ottawa"
