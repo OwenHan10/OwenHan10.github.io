@@ -7,8 +7,6 @@ collection: portfolio
 
 Demonstration showcasing the functionality of our breathing analysis system 
 1. Technology Presentation: Respiratory pattern analysis 
-2. Technology Presentation: Respiration Monitoring for Two People
-<br/>
 [Youtube Video Link 1](https://youtu.be/g-Vo8Mz-1JQ) 
-<br/>
+2. Technology Presentation: Respiration Monitoring for Two People
 [Youtube Video Link 2](https://youtu.be/KOWh8EllsJs)
