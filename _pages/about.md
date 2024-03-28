@@ -18,6 +18,7 @@ My research interests are in wireless sensing, healthcare and applied machine le
 
 Selected Experience
 ======
+
 Varsity Athelete Career
 ------
 I served as the Captain of the Information Science and Engineering College Men's Soccer Team during the 2016 and 2017 seasons, playing as a midfielder. I secured support from our college, raised funds to rebuild our team, participated in the management of day-to-day operations, and led the team to the final tournament every year. In 2017-2018, I was selected to play for our University men's soccer team and competed in municipal, provincial, and international high-level games. Additionally, I have been awarded University Scholarships and athlete bursaries since 2017.
@@ -54,7 +55,7 @@ In 2021 fall, I developed front and back-end systems that work with hospital col
 
 Between 2021 and 2022, HDRG engineered a real-time indoor monitoring system comprising a Kinect camera and three radars to track the location, respiration rate, and breathing patterns of multiple individuals in all directions. The system comprises a Kinect camera for target localization and radar signal selection, and three radar sensors for respiratory rate estimation and respiratory pattern classification. Our system was featured in the journal Frontier, with my primary contribution lying in the development of radar signal processing algorithms and the integration and testing of the system. More details of the system is available at [here](https://github.com/OwenHan10/owenhan10.github.io/blob/master/_portfolio/RP_classify.md).
 
-In spring and summer 2022, I participated in the Lab2Market program organized by NSERC. With funding from NSERC and guidance from program organizers, I conducted market research on the indoor radar monitoring technology I had been working on. This involved designing and distributing online questionnaires, reaching out to and interviewing stakeholders, developing a business model, and producing both a market research report and an elevator pitch presentation. The elevator pitch presentation video is available at [here](https://github.com/OwenHan10/owenhan10.github.io/blob/master/_talks/2022-06-30-L2M-Pitch.md).
+In spring and summer 2022, I participated in the Lab2Market program organized by NSERC. With funding from NSERC and guidance from program organizers, I conducted market research on the indoor radar monitoring technology I had been working on. This involved designing and distributing online questionnaires, reaching out to and interviewing stakeholders, developing a business model, and producing both a market research report and an elevator pitch presentation. The elevator pitch presentation video is available at [here](/talks/2022-06-30-L2M-Pitch).
 
 In 2023, to better achieve my research goals for my PhD, my supervisor and I developed a curriculum plan. I prepared for and successfully passed the relevant PhD comprehensive exams, focusing on Radar Signal Processing, Biomedical Signal Analysis, and Artificial Neural Networks.
 
