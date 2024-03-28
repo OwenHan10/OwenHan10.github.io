@@ -14,9 +14,10 @@ Research Interest
 ------
 My research interests are in wireless sensing, healthcare and applied machine learning.
 
+
+
 Selected Experience
 ======
-
 Varsity Athelete Career
 ------
 I served as the Captain of the Information Science and Engineering College Men's Soccer Team during the 2016 and 2017 seasons, playing as a midfielder. I secured support from our college, raised funds to rebuild our team, participated in the management of day-to-day operations, and led the team to the final tournament every year. In 2017-2018, I was selected to play for our University men's soccer team and competed in municipal, provincial, and international high-level games. Additionally, I have been awarded University Scholarships and athlete bursaries since 2017.
@@ -43,7 +44,9 @@ In 2022, we resumed the project, and I redesigned the entire device, replacing t
 
 Graduate Study
 ------
-During my study in the Master of Applied Science program, I focused on the respiratory signal analysis including vital signs extraction from radar signal, signal quality evaluation and abnormal respiratory pattern identification based on time-domain features. I published a conference paper in EMBC 2020 as a second author based on the hospital project research, and my main contribution is develop an algorithm to evaluate the collected breathing signal's quality and prove my coauthor's work of body tracking works well. My master thesis (2021) is about developing a abnormal respiratory pattern simulation model, implement shapelet-based time series classification in respiratory pattern classification and develop a high-precision and a high-recall model.
+During my study in the Master of Applied Science program, I focused on the respiratory signal analysis including vital signs extraction from radar signal, signal quality evaluation and abnormal respiratory pattern identification based on time-domain features. I published a conference paper in EMBC 2020 as a second author based on the hospital project research, and my main contribution is develop an algorithm to evaluate the collected breathing signal's quality and prove my coauthor's work of body tracking works well. The paper can be found here.
+
+My master thesis (2021) is about developing a abnormal respiratory pattern simulation model, implement shapelet-based time series classification in respiratory pattern classification and develop a high-precision and a high-recall model. The thesis can be found here.
 
 PhD Study
 ------
