@@ -1,9 +1,11 @@
 ---
 title: "Real-Time Breathing Analysis System"
-excerpt: "Demonstration of how our breathing analysis system works<br/>
+excerpt: "Demonstration showcasing the functionality of our breathing analysis system<br/>
 <img src='/images/RP_cover.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. <br/>
+Demonstration showcasing the functionality of our breathing analysis system <br/>
+1. Technology Presentation: Respiratory pattern analysis 
+2. Technology Presentation: Respiration Monitoring for Two People
 [Youtube Video Link](https://youtu.be/g-Vo8Mz-1JQ) 
