@@ -1,7 +1,7 @@
 ---
 title: "A contactless vital signs monitoring IoT system"
 excerpt: "Introduction to the functionality of our contactless vital signs monitoring IoT system.<br/>
-<img src='/images/IoT_cover.png'>"
+<img src='/images/IoT_cover_fit.png'>"
 collection: portfolio
 ---
 Introduction to the functionality of our contactless vital signs monitoring IoT system
