@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a currently PhD Candidate in the School of Electrical Engineering and Computer Science at University of Ottawa, serving as a Research Assistant in the [Health Device Research Group (HDRG)](http://health-devices.site.uottawa.ca/) supervised by [Prof. Miodrag Bolic](https://www.site.uottawa.ca/~mbolic/). I received my Master of Applied Science degree from University of Ottawa in the same research group in 2021. My research is about radar indoor sensing, vital signs monitroing and applied machine learning. Previously, I obtained my Bachelor of Engineering degree from Northeastern University (China) in 2021. I was a varsity athlete who played for the Northeastern University men's soccer team in 2017-2018.
+I am a currently PhD Candidate in the School of Electrical Engineering and Computer Science at University of Ottawa, serving as a Research Assistant in the [Health Device Research Group (HDRG)](http://health-devices.site.uottawa.ca/) supervised by [Prof. Miodrag Bolic](https://www.site.uottawa.ca/~mbolic/). I received my Master of Applied Science degree from University of Ottawa in the same research group in 2021. My research is about radar indoor sensing, vital signs monitroing and applied machine learning. Previously, I obtained my Bachelor of Engineering degree from Northeastern University (China) in 2018. I was a varsity athlete who played for the Northeastern University men's soccer team in 2017-2018.
 
 <!-- Research Interest
 ------
